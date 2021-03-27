@@ -1,0 +1,21 @@
+{
+  "name": "tech-blog-14",
+  "version": "1.0.0",
+  "description": "[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/undefined/)   # Description",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malcan09/-tech-blog-14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malcan09/-tech-blog-14/issues"
+  },
+  "homepage": "https://github.com/malcan09/-tech-blog-14#readme"
+}

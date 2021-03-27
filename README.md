@@ -1,4 +1,4 @@
-# -tech-blog-14
+# tech-blog-14
 
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/undefined/)
   # Description
